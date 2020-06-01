@@ -2,10 +2,9 @@
 
 1. Clone o projeto
 ```
-git clone
+git clone https://github.com/geovanecarvalho/jogos-pygame.git
 ```
-
-2. crie um ambiente virtual
+2. entre no diretorio do projeto e crie um ambiente virtual
 ``` python
 python3 -m venv NomeDoSeuAmbiente
 ```
