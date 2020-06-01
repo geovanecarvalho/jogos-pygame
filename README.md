@@ -1,4 +1,4 @@
-# Desenvolvendo jogos pygame
+# Desenvolvendo jogos com pygame
 
 1. Clone o projeto
 ```
